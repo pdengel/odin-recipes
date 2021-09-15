@@ -1,0 +1,15 @@
+* {
+  background-color: bisque;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  
+}
+
+.ingredients {
+    border: 2px solid black;
+}
+
+.recipe-name {
+    font-weight: bold;
+    font-style: oblique;
+    color: darkslategrey;
+}
+
