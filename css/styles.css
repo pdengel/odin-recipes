@@ -1,15 +1,43 @@
 * {
   background-color: bisque;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif  
+  font-family: cursive;  
+}
+
+header {
+    height: 280px;
+    width: 1000px;
+    overflow: hidden;
+}
+
+.recipe-card{
+    width: 1000px;
 }
 
 .ingredients {
-    border: 2px solid black;
+     width: 250px;
+    float: left;
+    clear: right;    
 }
 
-.recipe-name {
+.directions {
+    width: 700px;   
+    float: right; 
+}
+
+.recipe-description h1{
     font-weight: bold;
     font-style: oblique;
     color: darkslategrey;
 }
+
+.recipe-description img{
+    height: 188px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+}
+
+
+
+
 
